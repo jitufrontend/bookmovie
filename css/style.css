@@ -1,10 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Nunito', sans-serif;
+    font-family: "Open Sans", serif;
 }
 
 
@@ -43,7 +44,6 @@ body {
 .header .container .logo {
     color: var(--text-color);
     font-size: 25px;
-    font-family: 'Nunito', sans-serif;
     font-weight: 600;
     cursor: pointer;
 }
@@ -69,7 +69,6 @@ body {
     align-items: center;
     text-decoration: none;
     color: var(--text-color);
-    font-family: 'Nunito', sans-serif;
     font-weight: 600;
     font-size: 15px;
     margin-right: 35px;
@@ -291,7 +290,6 @@ span.psw {
     position: absolute;
     bottom: 50px;
     left: 50px;
-    font-family: 'Nunito', sans-serif;
     font-weight: 600;
     color: var(--backdrop-color) !important;
 }
@@ -324,7 +322,6 @@ span.psw {
 
 .movie-types .container h5 {
     color: var(--text-color);
-    font-family: 'Nunito', sans-serif;
     font-size: 24px;
     margin-bottom: 10px;
     display: flex;
@@ -334,7 +331,6 @@ span.psw {
 
 .movie-types .container h5 a {
     color: var(--text-color);
-    font-family: 'Nunito', sans-serif;
     font-size: 16px;
     text-decoration: none;
     opacity: .7;
@@ -455,7 +451,6 @@ span.psw {
     align-items: center;
     text-decoration: none;
     color: var(--text-color);
-    font-family: 'Nunito', sans-serif;
     font-weight: 600;
     font-size: 15px;
     margin-top: 35px;
@@ -482,7 +477,6 @@ span.psw {
     height: auto;
     color: var(--text-color);
     font-size: 25px;
-    font-family: 'Nunito', sans-serif;
     font-weight: 600;
     cursor: pointer;
     position: relative;
